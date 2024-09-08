@@ -1,4 +1,4 @@
-A very basic, local library catalogue for use in my home library. Current ILS software is _way_ too extensive for simple home-library needs.
+A very basic, local library catalogue for use in my home library. Current ILS software is _way_ too extensive for simple home library needs.
 Other software (e.g. goodreads) are all online, I prefer to have a local-only solution.
 
 Features:
