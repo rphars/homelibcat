@@ -19,4 +19,5 @@ Todo:
 <li>book illustrations (if front-end implemented).</li>
 <li>add books without isbn</li>
 <li>book summaries (where available)</li>
+<li>empty search string shouldnt return entire catalogue</li>
 </ul>
