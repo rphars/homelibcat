@@ -18,4 +18,5 @@ Todo:
 <li>frontend rather than CLI, e.g. server (flask?)</li>
 <li>book illustrations (if front-end implemented).</li>
 <li>add books without isbn</li>
+<li>book summaries (where available)</li>
 </ul>
