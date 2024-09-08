@@ -17,4 +17,5 @@ Todo:
 <li>suggest random unread book</li>
 <li>frontend rather than CLI, e.g. server (flask?)</li>
 <li>book illustrations (if front-end implemented).</li>
+<li>add books without isbn</li>
 </ul>
