@@ -2,16 +2,19 @@ A very basic, local library catalogue for use in my home library. Current ILS so
 Other software (e.g. goodreads) are all online, I prefer to have a local-only solution.
 
 Features:
--add books to 'database' (currently a .csv file)
--search owned books
--view list of books
-
+<ul>
+add books to 'database' (currently a .csv file)
+<li>search owned books</li>
+<li>view list of books</li>
+</ul>
 Currently command line/terminal-only. 
 
 Todo:
--delete books from collection
--book ratings
--mark as read/not read
--suggest random unread book
--frontend rather than CLI, e.g. server (flask?)
--book illustrations (if front-end implemented).
+<ul>
+<li>delete books from collection</li>
+<li>book ratings</li>
+<li>mark as read/not read</li>
+<li>suggest random unread book</li>
+<li>frontend rather than CLI, e.g. server (flask?)</li>
+<li>book illustrations (if front-end implemented).</li>
+</ul>
