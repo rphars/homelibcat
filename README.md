@@ -3,7 +3,7 @@ Other software (e.g. goodreads) are all online, I prefer to have a local-only so
 
 Features:
 <ul>
-add books to 'database' (currently a .csv file)
+<li>add books to 'database' (currently a .csv file)</li>
 <li>search owned books</li>
 <li>view list of books</li>
 </ul>
