@@ -55,15 +55,15 @@ def menu():
                     menu()
                 case 2: 
                     #book search option: currently only exact matches. todo: improve for partials!
-                    search_value = input('please enter your search query')
+                    search_value = input('please enter your search query\n').lower()
                     with open("libdat.csv", "r") as file:
                         reader = csv.reader(file)
                         #Loop through the rows in the file
                         for row in reader:
                             #If the search value matches any of the fields
-                            if search_value in row:
+                            if search_value in row[0].lower() or search_value in row[1].lower():
                                 # Show the book details in a message box
-                                print("Book Details", f"Title: {row[0]}\nAuthor: {row[1]}")
+                                print(f"Title: {row[0]}\nAuthor: {row[1]}")
                     menu()
                 case 3:
                     #view entire database
