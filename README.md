@@ -16,7 +16,7 @@ Currently planned features/fixes:
 <li>book ratings</li>
 <li>mark as read/not read</li>
 <li>suggest random unread book</li>
-<li>frontend rather than CLI, e.g. server (flask?)</li>
+<li>optional web frontend(flask?) but maintain CLI for classic look too. </li>
 <li>book illustrations (if front-end implemented).</li>
 <li>add books without isbn</li>
 <li>book summaries (where available)</li>
