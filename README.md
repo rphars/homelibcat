@@ -12,6 +12,7 @@ Currently command line/terminal-only.
 Currently planned features/fixes:
 <ul>
 <li>delete books from collection</li>
+<li>book counts (in case of multiple copies)</li>
 <li>book ratings</li>
 <li>mark as read/not read</li>
 <li>suggest random unread book</li>
