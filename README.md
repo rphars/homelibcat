@@ -22,5 +22,5 @@ Currently planned features/fixes:
 <li>book summaries (where available)</li>
 <li>empty search string shouldnt return entire catalogue</li>
 <li>sanitize text output in order for WYSE font to properly generate (e.g. ë vs e)</li>
-<li>further attempts to resemble Dynix/wyse classic terminal </li>
+<li>further attempts to resemble Dynix/wyse classic terminal, including more smooth scrolling </li>
 </ul>
