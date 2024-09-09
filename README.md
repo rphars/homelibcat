@@ -9,7 +9,7 @@ Features:
 </ul>
 Currently command line/terminal-only. 
 
-Todo:
+Currently planned features/fixes:
 <ul>
 <li>delete books from collection</li>
 <li>book ratings</li>
@@ -20,4 +20,6 @@ Todo:
 <li>add books without isbn</li>
 <li>book summaries (where available)</li>
 <li>empty search string shouldnt return entire catalogue</li>
+<li>sanitize text output in order for WYSE font to properly generate (e.g. ë vs e)</li>
+<li>further attempts to resemble Dynix/wyse classic terminal </li>
 </ul>
